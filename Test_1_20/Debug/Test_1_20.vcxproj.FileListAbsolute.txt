@@ -1,0 +1,2 @@
+D:\调试与运行\C test\Test_1_20\Debug\Test_1_20.exe
+D:\调试与运行\C test\Test_1_20\Debug\Test_1_20.pdb
